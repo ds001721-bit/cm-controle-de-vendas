@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+<rect width="512" height="512" rx="110" fill="#090b0e"/>
+<path d="M112 156h288v34H112z" fill="#d7a83e" opacity=".35"/>
+<text x="256" y="300" text-anchor="middle" font-family="Georgia,serif" font-size="190" font-weight="bold" fill="#f1cf72" letter-spacing="-35">CM</text>
+<text x="256" y="390" text-anchor="middle" font-family="Arial,sans-serif" font-size="31" font-weight="bold" fill="#d7a83e" letter-spacing="6">VENDAS</text>
+</svg>
